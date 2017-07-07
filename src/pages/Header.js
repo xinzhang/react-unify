@@ -23,7 +23,7 @@ const Header = () =>
         </button>
 
         <a href="../../unify-main/home/home-page-1.html" className="navbar-brand">
-          <img src="../../assets/img/logo/logo-1.png" alt="Image Description" />
+          <img src="../../assets/img/logo/logo-1.png" alt="logo" />
         </a>
 
         {/*<!-- Navigation -->*/}
@@ -34,7 +34,7 @@ const Header = () =>
             </li>
 
             <li className="nav-item hs-has-sub-menu g-mx-10--lg g-mx-15--xl">
-              <a id="nav-link--home" className="nav-link g-py-7 g-px-0" href="#"
+              <a id="nav-link--home" className="nav-link g-py-7 g-px-0" href="/"
                  aria-haspopup="true"
                  aria-expanded="false"
                  aria-controls="nav-submenu--home"
@@ -61,7 +61,7 @@ const Header = () =>
             </li>
 
             <li className="nav-item hs-has-sub-menu g-mx-10--lg g-mx-15--xl">
-              <a id="nav-link--pages" className="nav-link g-py-7 g-px-0" href="#"
+              <a id="nav-link--pages" className="nav-link g-py-7 g-px-0" href="/"
                  aria-haspopup="true"
                  aria-expanded="false"
                  aria-controls="nav-submenu--pages"
@@ -70,7 +70,7 @@ const Header = () =>
               <ul className="hs-sub-menu list-unstyled g-brd-top g-brd-primary g-brd-top-2 g-min-width-220 g-py-7 g-mt-20 g-mt-15--lg--scrolling" id="nav-submenu--pages"
                   aria-labelledby="nav-link--pages">
                 <li className="dropdown-item hs-has-sub-menu">
-                  <a id="nav-link--pages--about" className="nav-link" href="#"
+                  <a id="nav-link--pages--about" className="nav-link" href="/"
                      aria-haspopup="true"
                      aria-expanded="false"
                      aria-controls="nav-submenu--pages--about"
@@ -90,7 +90,7 @@ const Header = () =>
                 </li>
 
                 <li className="dropdown-item hs-has-sub-menu">
-                  <a id="nav-link--pages--services" className="nav-link" href="#"
+                  <a id="nav-link--pages--services" className="nav-link" href="/"
                      aria-haspopup="true"
                      aria-expanded="false"
                      aria-controls="nav-submenu--pages--services"
@@ -106,7 +106,7 @@ const Header = () =>
                 </li>
                 <li className="dropdown-item"><a className="nav-link" href="../../unify-main/pages/page-clients-1.html">Clients</a></li>
                 <li className="dropdown-item hs-has-sub-menu">
-                  <a id="nav-link--pages--profile" className="nav-link" href="#"
+                  <a id="nav-link--pages--profile" className="nav-link" href="/"
                      aria-haspopup="true"
                      aria-expanded="false"
                      aria-controls="nav-submenu--pages--profile"
@@ -131,7 +131,7 @@ const Header = () =>
             </li>
 
             <li className="nav-item hs-has-sub-menu g-mx-10--lg g-mx-15--xl">
-              <a id="nav-link--features" className="nav-link g-py-7 g-px-0" href="#"
+              <a id="nav-link--features" className="nav-link g-py-7 g-px-0" href="/"
                  aria-haspopup="true"
                  aria-expanded="false"
                  aria-controls="nav-submenu--features"
@@ -142,7 +142,7 @@ const Header = () =>
                 <li className="dropdown-item"><a className="nav-link" href="../../unify-main/shortcodes/headers/index.html">Headers</a></li>
                 <li className="dropdown-item"><a className="nav-link" href="../../unify-main/shortcodes/promo/shortcode-blocks-promo.html">Promo blocks</a></li>
                 <li className="dropdown-item hs-has-sub-menu">
-                  <a id="nav-link--features--pop-ups" className="nav-link" href="#"
+                  <a id="nav-link--features--pop-ups" className="nav-link" href="/"
                      aria-haspopup="true"
                      aria-expanded="false"
                      aria-controls="nav-submenu--features--pop-ups"
@@ -162,7 +162,7 @@ const Header = () =>
         {/*<!-- End Navigation -->*/}
 
         <div className="d-inline-block hidden-xs-down g-pos-rel g-valign-middle g-pl-30 g-pl-0--lg">
-          <a className="btn u-btn-outline-primary g-font-size-13 text-uppercase g-py-10 g-px-15" href="https://wrapbootstrap.com/theme/unify-responsive-website-template-WB0412697" target="_blank">Login</a>
+          <a className="btn u-btn-outline-primary g-font-size-13 text-uppercase g-py-10 g-px-15" href="/">Login</a>
         </div>
       </div>
     </nav>

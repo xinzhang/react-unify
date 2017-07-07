@@ -17,3 +17,7 @@
 .slider-launch-zindex6 {
   z-index: 6; white-space: normal; font-size: 15px; line-height: 50px; font-weight: 400; color: rgba(255,255,255,1); letter-spacing: 2px;border-color:rgb(255,255,255);border-style:solid;border-width:1px 1px 1px 1px;border-radius: 50px; outline:none;box-shadow:none;box-sizing:border-box;-moz-box-sizing:border-box;-webkit-box-sizing:border-box;cursor:pointer;
 }
+
+.invisible {
+  display: none
+}

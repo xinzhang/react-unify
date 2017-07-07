@@ -14,14 +14,14 @@ const Section1 = () =>
           <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour, or randomised words which dont look even slightly believable.</p>
         </div>
 
-        <a href="#" className="btn u-btn-primary u-shadow-v21 g-font-size-12 text-uppercase g-font-weight-600 g-rounded-50 g-py-15 g-px-25 g-mr-15 g-mb-10 g-mb-0--sm">
+        <a href="/" className="btn u-btn-primary u-shadow-v21 g-font-size-12 text-uppercase g-font-weight-600 g-rounded-50 g-py-15 g-px-25 g-mr-15 g-mb-10 g-mb-0--sm">
           <i className="icon-layers g-pos-rel g-top-1 g-mr-5"></i> Buy Full Version
         </a>
         <small className="d-block d-sm-inline-block g-color-gray-dark-v5 g-font-size-12">*Exclusive item on Wrapboostrap Marketpalce</small>
       </div>
 
       <div className="col-md-6 align-self-center text-center g-overflow-hidden">
-        <img className="img-fluid w-75" src="../../assets/img/inline/inline11.png" alt="Image Description"
+        <img className="img-fluid w-75" src="../../assets/img/inline/inline11.png" alt="some data"
              data-animation="fadeInUp"
              data-animation-delay="0"
              data-animation-duration="1000" />
